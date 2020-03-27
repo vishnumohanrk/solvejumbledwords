@@ -8,5 +8,6 @@ for i in (iter(it.permutations(word,len(word)))):
     res = ''.join(list(i))
     if (dic.check(res)):
         print(res)
+        break
     else:
         pass
