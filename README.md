@@ -9,3 +9,5 @@ Dependencies:
 <li><a href='https://pypi.org/project/pyenchant/'>PyEnchant</a> - For returning meaningful words</li>
 <li>itertools - For performing permutations</li>
 </ul>
+
+Works only for Words
