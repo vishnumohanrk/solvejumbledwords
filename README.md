@@ -12,4 +12,5 @@ Dependencies:
 
 #solvewhatsappforwards
 #quaratine
+<br>
 Works only for Words
