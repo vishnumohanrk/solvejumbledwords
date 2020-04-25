@@ -10,4 +10,6 @@ Dependencies:
 <li>itertools - For performing permutations</li>
 </ul>
 
+#solvewhatsappforwards
+#quaratine
 Works only for Words
