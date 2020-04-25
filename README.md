@@ -11,6 +11,6 @@ Dependencies:
 </ul>
 
 #solvewhatsappforwards
-#quaratine
+#quarantine
 <br>
 Works only for Words
